@@ -1,0 +1,29 @@
+{
+  "Header": {
+    "login": "लॉग इन करें",
+    "signup": "साइन अप करें"
+  },
+  "Footer": {
+    "book_title": "बुक करें",
+    "book_photographer": "फोटोग्राफर बुक करें",
+    "find_location": "स्थान खोजें",
+    "how_it_works": "यह कैसे काम करता है",
+    "pricing": "मूल्य-निर्धारण",
+    "about_title": "हमारे बारे में",
+    "about_us": "हमारे बारे में",
+    "contact_us": "हमसे संपर्क करें",
+    "careers": "करियर",
+    "faq": "FAQ",
+    "media_centre": "मीडिया केंद्र",
+    "business_title": "ज़ाइपिक्स फॉर बिजनेस",
+    "for_photographers": "फोटोग्राफरों के लिए",
+    "corporate": "कॉर्पोरेट",
+    "investor_relations": "निवेशक संबंध",
+    "copyright": "© {year} ज़ाइपिक्स। सर्वाधिकार सुरक्षित।",
+    "notices": "सूचनाएं",
+    "privacy_policy": "गोपनीयता नीति",
+    "terms_of_service": "सेवा की शर्तें",
+    "cancellation_policy": "रद्दीकरण नीति",
+    "region_tooltip": "क्षेत्र (वर्तमान में भारत)"
+  }
+}

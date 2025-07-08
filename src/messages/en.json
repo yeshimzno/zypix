@@ -1,0 +1,29 @@
+{
+  "Header": {
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "Footer": {
+    "book_title": "Book",
+    "book_photographer": "Book a photographer",
+    "find_location": "Find a location",
+    "how_it_works": "How it works",
+    "pricing": "Pricing",
+    "about_title": "About",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "careers": "Careers",
+    "faq": "FAQ",
+    "media_centre": "Media Centre",
+    "business_title": "Zypix For Business",
+    "for_photographers": "For Photographers",
+    "corporate": "Corporate",
+    "investor_relations": "Investor Relations",
+    "copyright": "© {year} Zypix. All rights reserved.",
+    "notices": "Notices",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "cancellation_policy": "Cancellation Policy",
+    "region_tooltip": "Region (Currently India)"
+  }
+}
